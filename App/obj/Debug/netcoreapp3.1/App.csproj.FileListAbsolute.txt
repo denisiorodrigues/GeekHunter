@@ -1,0 +1,13 @@
+D:\Labs\GeekHUnter\App\bin\Debug\netcoreapp3.1\App.exe
+D:\Labs\GeekHUnter\App\bin\Debug\netcoreapp3.1\App.deps.json
+D:\Labs\GeekHUnter\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.json
+D:\Labs\GeekHUnter\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.dev.json
+D:\Labs\GeekHUnter\App\bin\Debug\netcoreapp3.1\App.dll
+D:\Labs\GeekHUnter\App\bin\Debug\netcoreapp3.1\App.pdb
+D:\Labs\GeekHUnter\App\obj\Debug\netcoreapp3.1\App.csprojAssemblyReference.cache
+D:\Labs\GeekHUnter\App\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+D:\Labs\GeekHUnter\App\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+D:\Labs\GeekHUnter\App\obj\Debug\netcoreapp3.1\App.csproj.CoreCompileInputs.cache
+D:\Labs\GeekHUnter\App\obj\Debug\netcoreapp3.1\App.dll
+D:\Labs\GeekHUnter\App\obj\Debug\netcoreapp3.1\App.pdb
+D:\Labs\GeekHUnter\App\obj\Debug\netcoreapp3.1\App.genruntimeconfig.cache
